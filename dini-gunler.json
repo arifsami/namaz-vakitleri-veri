@@ -111,6 +111,127 @@
       "tarihGosterimi": "10 Aralık",
       "kisaAciklama": "Üç ayların ilk müjdecisi",
       "detayAciklama": "Üç aylar olarak bilinen Recep, Şaban ve Ramazan'ın ilk müjdecisi. Aynı zamanda üç ayların başlangıcıdır."
+    },
+    {
+      "id": "mirac-2027-oca",
+      "ad": "Miraç Kandili",
+      "kategori": "kandil",
+      "hicriTarih": "26 Receb 1448",
+      "baslangic": "2027-01-04",
+      "bitis": "2027-01-04",
+      "tarihGosterimi": "4 Ocak",
+      "kisaAciklama": "Göğe yükseliş gecesi",
+      "detayAciklama": "Hz. Peygamber'in Mescid-i Haram'dan Mescid-i Aksa'ya, oradan göğe yükseltildiği gece."
+    },
+    {
+      "id": "berat-2027",
+      "ad": "Berat Kandili",
+      "kategori": "kandil",
+      "hicriTarih": "14 Şaban 1448",
+      "baslangic": "2027-01-22",
+      "bitis": "2027-01-22",
+      "tarihGosterimi": "22 Ocak",
+      "kisaAciklama": "Bağışlanma gecesi",
+      "detayAciklama": "Günahlardan arınma ve bağışlanma dileme gecesi olarak bilinir."
+    },
+    {
+      "id": "ramazan-baslangic-2027",
+      "ad": "Ramazan Başlangıcı",
+      "kategori": "gunduz",
+      "hicriTarih": "1 Ramazan 1448",
+      "baslangic": "2027-02-08",
+      "bitis": "2027-02-08",
+      "tarihGosterimi": "8 Şubat",
+      "kisaAciklama": "Oruç ibadeti başlıyor",
+      "detayAciklama": "Bir aylık oruç ibadetinin ilk günü."
+    },
+    {
+      "id": "kadir-2027",
+      "ad": "Kadir Gecesi",
+      "kategori": "kadir",
+      "hicriTarih": "26 Ramazan 1448",
+      "baslangic": "2027-03-05",
+      "bitis": "2027-03-05",
+      "tarihGosterimi": "5 Mart",
+      "kisaAciklama": "Bin aydan hayırlı gece",
+      "detayAciklama": "Kur'an-ı Kerim'in indirilmeye başlandığı, \"bin aydan hayırlı\" olarak nitelenen gece."
+    },
+    {
+      "id": "ramazan-bayrami-2027",
+      "ad": "Ramazan Bayramı",
+      "kategori": "bayram",
+      "hicriTarih": "1-3 Şevval 1448",
+      "baslangic": "2027-03-09",
+      "bitis": "2027-03-11",
+      "tarihGosterimi": "9-11 Mart",
+      "kisaAciklama": "3 günlük bayram",
+      "detayAciklama": "Arefesi 8 Mart'tır. Bir aylık orucun ardından kutlanan üç günlük bayram."
+    },
+    {
+      "id": "kurban-bayrami-2027",
+      "ad": "Kurban Bayramı",
+      "kategori": "bayram",
+      "hicriTarih": "10-13 Zilhicce 1448",
+      "baslangic": "2027-05-16",
+      "bitis": "2027-05-19",
+      "tarihGosterimi": "16-19 Mayıs",
+      "kisaAciklama": "Yılın en büyük bayramı",
+      "detayAciklama": "Arefesi 15 Mayıs'tır. Yılın en büyük bayramı, dört gün sürer."
+    },
+    {
+      "id": "hicri-yilbasi-2027",
+      "ad": "Hicri Yılbaşı",
+      "kategori": "yilbasi",
+      "hicriTarih": "1 Muharrem 1449",
+      "baslangic": "2027-06-06",
+      "bitis": "2027-06-06",
+      "tarihGosterimi": "6 Haziran",
+      "kisaAciklama": "1449 yılına giriş",
+      "detayAciklama": "Hicri 1449 yılına giriş."
+    },
+    {
+      "id": "asure-2027",
+      "ad": "Aşure Günü",
+      "kategori": "yemek",
+      "hicriTarih": "10 Muharrem 1449",
+      "baslangic": "2027-06-15",
+      "bitis": "2027-06-15",
+      "tarihGosterimi": "15 Haziran",
+      "kisaAciklama": "Muharrem'in onuncu günü",
+      "detayAciklama": "Muharrem ayının onuncu günü; aşure paylaşma ve ikram geleneğiyle bilinir."
+    },
+    {
+      "id": "mevlid-2027",
+      "ad": "Mevlid Kandili",
+      "kategori": "kandil",
+      "hicriTarih": "11 Rebiülevvel 1449",
+      "baslangic": "2027-08-13",
+      "bitis": "2027-08-13",
+      "tarihGosterimi": "13 Ağustos",
+      "kisaAciklama": "Hz. Peygamber'in doğumunu andığımız gece",
+      "detayAciklama": "Hz. Peygamber (s.a.v.)'in doğumunu andığımız, kandil gecelerinden biridir. Bu gece nafile ibadet, salavat ve dua ile ihya edilir."
+    },
+    {
+      "id": "regaib-2027",
+      "ad": "Regaib Kandili",
+      "kategori": "kandil",
+      "hicriTarih": "4 Receb 1449",
+      "baslangic": "2027-12-02",
+      "bitis": "2027-12-02",
+      "tarihGosterimi": "2 Aralık",
+      "kisaAciklama": "Recep ayının ilk cuma gecesi",
+      "detayAciklama": "Üç aylar olarak bilinen Recep, Şaban ve Ramazan döneminin habercisi; Recep ayının ilk cuma gecesidir."
+    },
+    {
+      "id": "mirac-2027-ara",
+      "ad": "Miraç Kandili",
+      "kategori": "kandil",
+      "hicriTarih": "26 Receb 1449",
+      "baslangic": "2027-12-24",
+      "bitis": "2027-12-24",
+      "tarihGosterimi": "24 Aralık",
+      "kisaAciklama": "Göğe yükseliş gecesi",
+      "detayAciklama": "Hz. Peygamber'in Mescid-i Haram'dan Mescid-i Aksa'ya, oradan göğe yükseltildiği gece."
     }
   ]
 }
