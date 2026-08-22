@@ -1,0 +1,116 @@
+{
+  "kaynak": "https://vakithesaplama.diyanet.gov.tr/dinigunler.php",
+  "guncellenmeTarihi": "2026-08-22",
+  "gunler": [
+    {
+      "id": "mirac",
+      "ad": "Miraç Kandili",
+      "kategori": "kandil",
+      "hicriTarih": "26 Receb 1447",
+      "baslangic": "2026-01-15",
+      "bitis": "2026-01-15",
+      "tarihGosterimi": "15 Ocak",
+      "kisaAciklama": "Göğe yükseliş gecesi",
+      "detayAciklama": "Hz. Peygamber'in Mescid-i Haram'dan Mescid-i Aksa'ya, oradan göğe yükseltildiği gece."
+    },
+    {
+      "id": "berat",
+      "ad": "Berat Kandili",
+      "kategori": "kandil",
+      "hicriTarih": "14 Şaban 1447",
+      "baslangic": "2026-02-02",
+      "bitis": "2026-02-02",
+      "tarihGosterimi": "2 Şubat",
+      "kisaAciklama": "Bağışlanma gecesi",
+      "detayAciklama": "Günahlardan arınma ve bağışlanma dileme gecesi olarak bilinir."
+    },
+    {
+      "id": "ramazan-baslangic",
+      "ad": "Ramazan Başlangıcı",
+      "kategori": "gunduz",
+      "hicriTarih": "1 Ramazan 1447",
+      "baslangic": "2026-02-19",
+      "bitis": "2026-02-19",
+      "tarihGosterimi": "19 Şubat",
+      "kisaAciklama": "Oruç ibadeti başlıyor",
+      "detayAciklama": "Bir aylık oruç ibadetinin ilk günü."
+    },
+    {
+      "id": "kadir",
+      "ad": "Kadir Gecesi",
+      "kategori": "kadir",
+      "hicriTarih": "26 Ramazan 1447",
+      "baslangic": "2026-03-16",
+      "bitis": "2026-03-16",
+      "tarihGosterimi": "16 Mart",
+      "kisaAciklama": "Bin aydan hayırlı gece",
+      "detayAciklama": "Kur'an-ı Kerim'in indirilmeye başlandığı, \"bin aydan hayırlı\" olarak nitelenen gece."
+    },
+    {
+      "id": "ramazan-bayrami",
+      "ad": "Ramazan Bayramı",
+      "kategori": "bayram",
+      "hicriTarih": "1-3 Şevval 1447",
+      "baslangic": "2026-03-20",
+      "bitis": "2026-03-22",
+      "tarihGosterimi": "20-22 Mart",
+      "kisaAciklama": "3 günlük bayram",
+      "detayAciklama": "Arefesi 19 Mart'tır. Bir aylık orucun ardından kutlanan üç günlük bayram."
+    },
+    {
+      "id": "kurban-bayrami",
+      "ad": "Kurban Bayramı",
+      "kategori": "bayram",
+      "hicriTarih": "10-13 Zilhicce 1447",
+      "baslangic": "2026-05-27",
+      "bitis": "2026-05-30",
+      "tarihGosterimi": "27-30 Mayıs",
+      "kisaAciklama": "Yılın en büyük bayramı",
+      "detayAciklama": "Arefesi 26 Mayıs'tır. Yılın en büyük bayramı, dört gün sürer."
+    },
+    {
+      "id": "hicri-yilbasi",
+      "ad": "Hicri Yılbaşı",
+      "kategori": "yilbasi",
+      "hicriTarih": "1 Muharrem 1448",
+      "baslangic": "2026-06-16",
+      "bitis": "2026-06-16",
+      "tarihGosterimi": "16 Haziran",
+      "kisaAciklama": "1448 yılına giriş",
+      "detayAciklama": "Hicri 1448 yılına giriş."
+    },
+    {
+      "id": "asure",
+      "ad": "Aşure Günü",
+      "kategori": "yemek",
+      "hicriTarih": "10 Muharrem 1448",
+      "baslangic": "2026-06-25",
+      "bitis": "2026-06-25",
+      "tarihGosterimi": "25 Haziran",
+      "kisaAciklama": "Muharrem'in onuncu günü",
+      "detayAciklama": "Muharrem ayının onuncu günü; aşure paylaşma ve ikram geleneğiyle bilinir."
+    },
+    {
+      "id": "mevlid",
+      "ad": "Mevlid Kandili",
+      "kategori": "kandil",
+      "hicriTarih": "11 Rebiülevvel 1448",
+      "baslangic": "2026-08-24",
+      "bitis": "2026-08-24",
+      "tarihGosterimi": "24 Ağustos",
+      "kisaAciklama": "Hz. Peygamber'in doğumunu andığımız gece",
+      "detayAciklama": "Hz. Peygamber (s.a.v.)'in doğumunu andığımız, kandil gecelerinden biridir. Bu gece nafile ibadet, salavat ve dua ile ihya edilir."
+    },
+    {
+      "id": "regaib",
+      "ad": "Regaib Kandili",
+      "kategori": "kandil",
+      "hicriTarih": "1 Receb 1448",
+      "baslangic": "2026-12-10",
+      "bitis": "2026-12-10",
+      "tarihGosterimi": "10 Aralık",
+      "kisaAciklama": "Üç ayların ilk müjdecisi",
+      "detayAciklama": "Üç aylar olarak bilinen Recep, Şaban ve Ramazan'ın ilk müjdecisi. Aynı zamanda üç ayların başlangıcıdır."
+    }
+  ]
+}
