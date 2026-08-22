@@ -7,7 +7,10 @@
 1. https://vakithesaplama.diyanet.gov.tr/dinigunler.php?yil=YIL adresinden o yılın verisini al.
 2. `dini-gunler.json` içindeki `gunler` dizisine yeni yılın kayıtlarını **ekle** (eskileri silmene gerek yok — uygulama zaten "geçti" olanları otomatik ayırıyor, dizi büyüdükçe sorun olmaz).
 3. `guncellenmeTarihi` alanını bugüne güncelle.
-4. `main`'e push et. Uygulama bir sonraki açılışta (internet varsa) otomatik yeni veriyi çeker ve önbelleğe alır — **yeni bir app store sürümüne gerek yok.**
+4. `main`'e push et.
+5. jsDelivr CDN'i anında güncellensin diye şu adresi bir kere ziyaret et (cache purge): https://purge.jsdelivr.net/gh/arifsami/namaz-vakitleri-veri@main/dini-gunler.json — atlarsan da olur, jsDelivr zaten birkaç saat içinde kendiliğinden tazeler.
+
+Uygulama bir sonraki açılışta (internet varsa) otomatik yeni veriyi çeker ve önbelleğe alır — **yeni bir app store sürümüne gerek yok.**
 
 ## Şema
 
